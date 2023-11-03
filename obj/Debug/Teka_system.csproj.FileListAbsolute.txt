@@ -1,0 +1,11 @@
+D:\about\Teka_system\Teka_system\bin\Debug\Teka_system.exe.config
+D:\about\Teka_system\Teka_system\bin\Debug\Teka_system.exe
+D:\about\Teka_system\Teka_system\bin\Debug\Teka_system.pdb
+D:\about\Teka_system\Teka_system\obj\Debug\Teka_system.csprojResolveAssemblyReference.cache
+D:\about\Teka_system\Teka_system\obj\Debug\Teka_system.Form1.resources
+D:\about\Teka_system\Teka_system\obj\Debug\Teka_system.Properties.Resources.resources
+D:\about\Teka_system\Teka_system\obj\Debug\Teka_system.csproj.GenerateResource.Cache
+D:\about\Teka_system\Teka_system\obj\Debug\Teka_system.exe
+D:\about\Teka_system\Teka_system\obj\Debug\Teka_system.pdb
+D:\about\Teka_system\Teka_system\bin\Debug\Guna.UI.dll
+D:\about\Teka_system\Teka_system\bin\Debug\MaterialSkin.dll
